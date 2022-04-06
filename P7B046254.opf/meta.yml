@@ -1,0 +1,28 @@
+id: P7B046254
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13382
+  instance_id: http://purl.bdrc.io/resource/IE3JT13382
+  collection_id: http://purl.bdrc.io/resource/PR0ET010
+  language_id: None
+  title:
+    bo:
+    - ཤེར་ཕྱིན་མངོན་རྟོགས་རྒྱན་གྱི་ཚིག་འགྲེལ་ཟུར་བཀོལ།
+  alt_title:
+    bo:
+    - ཤེར་ཕྱིན་མངོན་རྟོགས་རྒྱན་གྱི་ཊཱིཀ་ཆེན་རྗེ་བཙུན་ངལ་གསོའི་ཚིག་འགྲེལ་ཟུར་བཀོལ།
+  author: http://purl.bdrc.io/resource/P2486
+  publisher: Various
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    b7d6c92513b849a8836f9bd6b24a0ebf:
+      title: པར་སྐྲུན་གསལ་བཤད།
+      volume_number: 1
+      base_file: UT3JT13382_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL00B1BF7447A29185
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:22:00.228709'
+last_modified_at: '2021-12-31T08:22:00.228715'
